@@ -1,0 +1,26 @@
+#Core Streamlit application and data handling
+streamlit
+pandas
+numpy
+sqlalchemy
+python-dotenv
+netcdf4
+xarray
+requests
+re
+
+#LangChain and Multi-Agent/RAG components
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langgraph
+faiss-cpu
+sentence-transformers
+retrying
+
+#Visualization
+plotly
+
+#Utility and cleanup
+gc
